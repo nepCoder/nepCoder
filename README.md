@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bikash Khanal (NepCoder)
 - 👀 I’m interested in software development and software engineering
-- 🌱 I’m currently learning C# Dot NET
+- 🌱 I’m currently learning C#  .NET
 - 📫 How to reach me ...
 [LinkedIn](https://www.linkedin.com/in/bikash-khanal-8153341b4/)
 [Facebook](https://www.facebook.com/khnlbksh)
