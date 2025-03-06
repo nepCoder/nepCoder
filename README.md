@@ -1,6 +1,6 @@
 # Hello World!👋
 
-I’m **Bikash Khanal** (NepCoder), a passionate __Fullstack Software Engineer__ based in Nepal.
+I’m **Bikash Khanal** (nepcoder), a passionate __Fullstack Software Engineer__ based in Nepal.
 
 - 👀 I’m interested in *Software Development, Business, Creative Writing, and many more*
 - 🔭 I'm currently working on my personal project (***FinTech Project***).
