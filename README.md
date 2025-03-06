@@ -1,10 +1,10 @@
 # Hello World!👋
 
-I’m **Bikash Khanal** (NepCoder), a passionate __Software Engineer__ based in Nepal.
+I’m **Bikash Khanal** (NepCoder), a passionate __Fullstack Software Engineer__ based in Nepal.
 
 - 👀 I’m interested in *Software Development, Business, Creative Writing, and many more*
 - 🔭 I'm currently working on my personal project (***FinTech Project***).
-- 💬 Ask me about ***.NET, C#, Angular, React.js/Redux***.
+- 💬 Ask me about ***.NET, Sql Server, React.js/Next.js, C#, JavaScript, and Full-Stack Software Development***.
 - 📫 How to reach me? *📧 iambkhanal@gmail.com*, *[LinkedIn](https://www.linkedin.com/in/bikash-khanal-8153341b4/)*
 
 I'm always excited to connect with fellow developers, collaborate on projects, and learn from the community. Feel free to explore my repositories, and if you find something interesting or have any questions, don't hesitate to reach out.
